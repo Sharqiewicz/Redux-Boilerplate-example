@@ -1,3 +1,13 @@
+## Redux boilerplate example
+
+This simple project shows what the launch of an application using Redux technology should look like.
+
+### Look at
+- Redux Toolkit
+- Redux Saga
+
+## Auto Generated
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts

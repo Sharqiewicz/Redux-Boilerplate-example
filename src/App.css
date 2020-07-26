@@ -14,12 +14,11 @@
 }
 
 .App-header {
-  min-height: 100vh;
+  min-height: 40vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
 }
 
 .App-link {
@@ -37,3 +36,22 @@
     transform: translateY(0px)
   }
 }
+
+.addpost__container input, .addpost__container textarea{
+  margin-top: 10px;
+  width: 70%;
+  font-size: 20px;
+}
+.addpost__field{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 3vh 0 0 0;
+}
+
+.post__container{
+  width: 80%;
+  background-color: #ddd;
+  padding: 5%;
+  margin: 15px auto;
+}
+
